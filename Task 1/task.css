@@ -1,0 +1,217 @@
+.headercenter{
+    font-style: normal;
+    color:rgb(236, 75, 102);
+    text-align: center;
+}
+.main{
+    font-size: large;
+    color: black;
+    text-align:center
+}
+.main h1{
+    position: absolute;
+    margin-left:500px ;
+    margin-top:-30px ;
+
+    
+}
+.main .circle1{
+    position: relative;
+    height: 20px;
+    width: 20px;
+    background-color:orangered ;
+    border-radius: 50%;
+    margin-bottom:50px ;
+    margin-left: 100px;
+
+}
+.main .circle2{
+    position: absolute;
+    height: 23px;
+    width:23px;
+    background-color: rgb(231, 44, 44);
+    border-radius:50% ;
+    margin-left:1240px ;
+    margin-top:-60px ;
+    
+}
+.main2{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
+.main2 .left{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color:rgb(241, 238, 235);
+}
+.main2 .left i{
+    background-color: blueviolet;
+    padding:30px 15px ;
+    border-radius:15px ;
+}
+.button1 .read{
+    background-color:transparent;
+    text-align: center;
+    font-style: normal;
+    border:0px ;
+    color: blue;
+    
+}
+.main2 .middle1{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color:rgb(241, 238, 235);
+}
+.main2 .middle1 i{
+    background-color: rgb(50, 50, 179);
+    padding: 30px 15px;
+    border-radius: 15px;
+}
+.button2 .read2{
+    background-color:transparent ;
+    text-align: center;
+    font-style: normal;
+    border: 0px;
+    color: blue;
+}
+.main2 .middle2{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color:rgb(241, 238, 235);
+}
+.main2 .middle2 i{
+    background-color: orangered;
+    padding: 30px 15px;
+    border-radius: 15px;
+}
+.button3 .read3{
+    background-color:transparent ;
+    text-align: center;
+    font-style: normal;
+    border: 0px;
+    color: blue;
+}
+.main2 .right{
+    border-radius: 30px;
+    width: 200px;
+    height: 200px;
+    padding: 50px;
+    background-color:rgb(241, 238, 235);
+}
+.main2 .right i{
+    background-color: rgb(206, 21, 107);
+    padding: 30px 15px;
+    border-radius: 15px;
+}
+.button4 .read4{
+    background-color: transparent;
+    text-align: center;
+    font-style: normal;
+    border:0px;
+    color: blue;
+}
+.media{
+    display: flex;
+    margin-top: 70px;
+    margin-left:80px;
+
+}
+/*.media .sub{
+    height: 300px;
+    width: 300px;
+    margin-top: 100px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:10px ;
+}
+.media img{
+    width: 250px;
+    margin-left: -270px;
+    border-top-left-radius:100px ;
+    border-top-right-radius:100px ;
+
+}*/
+.media .circle3{
+    position: relative;
+    height: 12px;
+    width: 12px;
+    background-color:rgb(95, 59, 224) ;
+    border-radius: 50%;
+    margin-left:4px;
+
+
+}
+.circle4{
+    position:absolute;
+    height: 14px;
+    width:14px;
+    background-color:rgb(170, 28, 170);
+    border-radius:50%;
+    margin-left:1000px ;
+    top:580px;
+
+}
+.sub2{
+    margin-left:50px ;
+}
+/* .media .part1{ 
+    font-size:small; 
+    color: rgb(175, 15, 76);
+    text-align: left;
+}*/
+.media .part1{
+    font-style: normal;
+    color:rgb(236, 75, 102);
+    text-align: center;
+}
+.part1 h5{
+    position: absolute;
+    top:500px;
+   /* margin-right: -70px;*/
+}
+.part2 h2{
+    font-size:60px ;
+    color: black;
+
+}
+.part2 p{
+    font-size:large;
+    color: rgb(14, 13, 13);
+}
+.part3{
+    display: flex;
+}
+.part4{
+    margin-right: 100px;
+}
+/* .circle5{
+    position:absolute;
+    height: 14px;
+    width:14px;
+    background-color:rgb(178, 231, 30);
+    border-radius:50%;
+    margin-right:60px ;
+    margin-bottom:30px ;
+
+
+}*/
+.button5 .but{
+    background-color:blueviolet;
+    text-align: center;
+    font-style: normal;
+    color:white;
+    width: 100px;
+    border-radius:30px ;
+    margin-left: 80px;
+    margin-right:40px ;
+    padding:10px;
+}
